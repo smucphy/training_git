@@ -5,3 +5,5 @@ print('Hello, moon!')
 
 
 print('Hello, mars!')
+print('Hello, mercury!')
+
